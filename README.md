@@ -1,7 +1,7 @@
 # AspDotNetCoreHelloWorld
 ASP.NET Core + Azure DevOps CI/CD 데모
 
-[![Build Status](https://dev.azure.com/redplus/AspDotNetCoreHelloWorld/_apis/build/status/AspDotNetCoreHelloWorld-ASP.NET%20Core-CI?branchName=master)](https://dev.azure.com/redplus/AspDotNetCoreHelloWorld/_build/latest?definitionId=19&branchName=master)
+[![Build Status](https://dev.azure.com/sonayoon/aspdotnetcorehelloworld/_apis/build/status/aspdotnetcorehelloworld-ASP.NET%20Core-CI?branchName=master)](https://dev.azure.com/sonayoon/aspdotnetcorehelloworld/_build/latest?definitionId=2&branchName=master)
 
 
 ## Azure와 Azure DevOps 강의 데모 소스
